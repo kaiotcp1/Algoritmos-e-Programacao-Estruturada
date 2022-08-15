@@ -64,6 +64,35 @@ Uma sequência ordenada de passos que deve ser
       ° Assemelha-se a forma em que os programas são escritos <br>
       ° Português estruturado <br>
       ° A intenção é chegar na resolução do problema <br>
-<img width="720px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008783576290050058/unknown.png" /><br>
+<img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008783576290050058/unknown.png" /><br>
 </b></details>
 </b></details>
+  
+  ##
+  ##
+  ##
+  ##
+  
+  <details>
+<summary>Componentes e Elementos de <br> Linguagem de programação</summary><br><b>
+  
+  <details>
+<summary>Variáveis</summary><br><b>
+     Um local que armazena um contúdo específico na <br>
+     memória principal do computador. <br>
+<img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008787774926757908/unknown.png" /><br>
+</b></details>
+    
+  <details>
+<summary>Tipos de Dados</summary><br><b>
+     Especifica as características, ou seja, os valores e <br>
+    operações possíveis de serem utilizadas com um <br>
+    dado desse tipo. <br>
+<img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008788797611315280/unknown.png" /><br>
+
+    
+</b></details>
+    
+    
+</b></details>
+
