@@ -10,7 +10,7 @@
 ##
 ##
   
-  
+  <h2> Algoritimo </h2>
 <details>
 <summary>O que é algorotimo </summary><br><b>
 Uma sequência ordenada de passos que deve ser
@@ -73,9 +73,7 @@ Uma sequência ordenada de passos que deve ser
   ##
   ##
   
-  <details>
-<summary>Componentes e Elementos de <br> Linguagem de programação</summary><br><b>
-  
+  <h2> Componentes e Elementos de <br> Linguagem de programação </h2>
   <details>
 <summary>Variáveis</summary><br><b>
      Um local que armazena um contúdo específico na <br>
@@ -91,7 +89,7 @@ Uma sequência ordenada de passos que deve ser
 <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008788797611315280/unknown.png" /><br>
    
 </b></details>
-</b></details>
+
   
   ##
   ##
@@ -145,6 +143,82 @@ Uma sequência ordenada de passos que deve ser
    Palavras reservadas da sintaxe da linguagem. <br>
 <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008799517971316776/unknown.png" /><br>
 </b></details>
+  
+  #
+  #
+  #
+  #
+  
+  <h2> Operações e Expressões em C </h2>
+  
+<details>
+<summary>Palavras reservadas</summary><br><b>
+   Palavras reservadas da sintaxe da linguagem. <br>
+<img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008799517971316776/unknown.png" /><br>
+</b></details>
+  
+<details>
+<summary>Operadores</summary><br><b>
+   Operadores Matemáticos em C <br>
+<img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008801612598353931/unknown.png" /><br>
+</b></details>
+  
+<details>
+<summary>Operador de atribuição</summary><br><b>
+  ° Fornece valor a uma variável <br>
+  ° Pode ser uma expressão <br>
+  ° Símbolo: = <br> 
+<img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008802060420005968/unknown.png" /><br>
+</b></details>
+  
+<details>
+<summary>Operadores relacionais</summary><br><b>
+  Os operadores relacionais auxilia na criação de condições.<br>
+<img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008802980482527312/unknown.png" /><br>
+</b></details>
+  
+<details>
+<summary>Operadores lógicos</summary><br><b>
+  Os operadores lógicos auxilia na criação de condições e desvios condicionais.<br>
+<img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008803606989918308/unknown.png" /><br>
+</b></details>
+ 
+  #
+  #
+  #
+  #
+  
+  <h2> Comandos </h2>
+
+<details>
+<summary>Argumentos</summary><br><b>
+  Alguns argumentos <br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008811216791142490/unknown.png" /><br>
+</b></details>
+  
+  <details>
+<summary>Entrada de dados</summary><br><b>
+As informações dos usuários são transferidas para variável do programa <br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008808301942812782/unknown.png" /><br>
+  Neste exemplo a expressão de controle se refere ao tipo de dado que queremos "%d" referente a numeros inteiro decimal, <br> 
+    já o símbolo "&" se refere ao endereço que esse valor será atribuido, neste exemplo é a variável valor que já <br>
+    se encontraria declarada no inicio do programa.
+</b></details>
+  
+  <details>
+<summary>Saída de dados</summary><br><b>
+As informações, mensagens e conteúdos de variáveis são enviadas para o usuário visualizá-las. <br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008805672059670598/unknown.png" /><br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008806058464120832/unknown.png" /><br>
+  Neste exemplo, valor1 estária armazenando um valor inteiro e para permitir que usuario visualize o valor da variável na mensagem, é necessario a utilização "%d" .
+</b></details>
+  
+<details>
+<summary>Exemplo</summary><br><b>
+  Exemplo: <br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008808846640287874/unknown.png" /><br>
+</b></details>
+  
   
   
   
