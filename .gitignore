@@ -1,0 +1,11 @@
+exec/main.o
+exec/Makefile.win
+exec/Project1.dev
+exec/Project1.exe
+exec/Project1.layout
+
+exec2/main.o
+exec2/Makefile.win
+exec2/Project2.dev
+exec2/Project2.exe
+exec2/Project2.layout
