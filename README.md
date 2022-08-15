@@ -35,7 +35,35 @@ Uma sequência ordenada de passos que deve ser
 </b></details>
   <details>
 <summary>Formas de representação</summary><br><b>
-    ° Descrição Narrativa; <br>
-    ° Fluxograma; <br>
-    ° Pseudocódigo<br>
+    <details>
+<summary>Descrição Narrativa</summary><br><b>
+      ° Utiliza a linguagem natural <br> 
+      Exemplo: Receita de bolo: <br><br>
+      
+      1° Misturar todos os ingredientes <br>
+      2° Untar a forma <br>
+      3° Despejar a mistura na forma <br>
+      4° Levar a forma para o forno <br>
+      5° Deixar o bolo 45 Minutos no forno á 180° <br>
+      6° Retirar a forma do bolo <br>
+      7° Desenformar o bolo
+</b></details>
+    <details>
+<summary>Fluxograma</summary><br><b>
+      ° Representação gráfica <br>
+      ° Cada forma geométrica define uma função genérica <br>
+      ° As formas geométricas são ligadas por flechas que indicam o fluxo da execução <br>
+<img width="720px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008779753853030521/unknown.png" /><br>
+<img width="720px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008781305586122773/unknown.png" /><br>
+<img width="720px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008781629621280868/unknown.png" /><br>
+
+
+</b></details>
+        <details>
+<summary>Pseudocódigo</summary><br><b>
+      ° Assemelha-se a forma em que os programas são escritos <br>
+      ° Português estruturado <br>
+      ° A intenção é chegar na resolução do problema <br>
+<img width="720px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008783576290050058/unknown.png" /><br>
+</b></details>
 </b></details>
