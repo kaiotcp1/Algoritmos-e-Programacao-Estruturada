@@ -1,7 +1,7 @@
 <div align="center">
 <i align="center" >Engenharia de Software 2° Semestre , Algoritmos e Programação Estruturada.</i> 
 
-<h2 align="center">Bem Vindo</h2>
+<h1 align="center">Bem Vindo</h1>
 <div align="center">
 <img width="360px"src="https://miro.medium.com/max/1400/1*NBNVsCbO_bPnVM53YARpag.jpeg" />
 </div>
@@ -89,10 +89,64 @@ Uma sequência ordenada de passos que deve ser
     operações possíveis de serem utilizadas com um <br>
     dado desse tipo. <br>
 <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008788797611315280/unknown.png" /><br>
+   
+</b></details>
+</b></details>
+  
+  ##
+  ##
+  ##
+  ##
+  
+  <h2> Linguagem C </h2>
+  <details>
+<summary>O que precisamos em um programa</summary><br><b>
+     1° Início do programa <br>
+     2° Definição das variáveis <br>
+     3° Instrução de leitura dos dados <br>
+     4° Instrução do formato de escrita <br>
+     5° Demais instruções e funções <br>
+     6° fim do programa. <br>
+</b></details>
 
-    
+  <details>
+<summary>Bibliotecas</summary><br><b>
+    As primeiras linhas de programção são definidas pelas bibliotecas.
+    <br>
+    <br>
+    <br>
+    Exemplos de Bibliotecas : <br><br>
+    ° stdio: funções de entrada e saída; <br>
+    ° stdlib: transforma string em númeroes; <br>
+    ° string: manipulação de string; <br>
+    ° math: operações matemáticas; <br>
+    <br>
+    Como utilizar em seu código: <br>
+<img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008795570766368880/unknown.png" /><br>
 </b></details>
-    
-    
+  
+<details>
+<summary>Função main()</summary><br><b>
+   Início da execução de um programa em C <br>
+  <br>
+  Sendo int main() retornando o valor final e void main() e main() não retornando nada. <br>
+  Por convensão é utilizado o void main() ao invez de main() caso não seja necessario o retorno de dados.<br>
+<img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008796282564919346/unknown.png" /><br>
 </b></details>
+  
+<details>
+<summary>Variáveis</summary><br><b>
+   Tipos de dados e como declaralas. <br>
+<img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008798600815448104/unknown.png" /><br>
+</b></details>
+  
+<details>
+<summary>Palavras reservadas</summary><br><b>
+   Palavras reservadas da sintaxe da linguagem. <br>
+<img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008799517971316776/unknown.png" /><br>
+</b></details>
+  
+  
+  
+  
 
