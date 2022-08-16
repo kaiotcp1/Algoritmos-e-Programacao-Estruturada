@@ -213,6 +213,43 @@ As informações, mensagens e conteúdos de variáveis são enviadas para o usu�
   <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008808846640287874/unknown.png" /><br>
 </b></details>
   
+  #
+  #
+  #
+  #
+  
+  <h2>Estruturas de Decisão Condicional</h2>
+
+<details>
+<summary>if</summary><br><b>
+  Tomar uma decisão e criar um desvio dentro do programa <br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009226537649832037/unknown.png" /><br>
+  Estrutura <br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009227167110021251/unknown.png" /><br>
+</b></details>
+  
+  
+<details>
+<summary>if e else</summary><br><b>
+  Estrutura <br>
+  <img width="320px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009228247998943385/unknown.png" /><br>
+  <img width="320px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009228604724477992/unknown.png" /><br>
+</b></details>
+  
+  
+<details>
+<summary>Switch case</summary><br><b>
+  Estrutura<br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009229446001205288/unknown.png" /><br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009229884779921508/unknown.png" /><br>
+  break; faz com que, após o comandos serem executados, força a parada do switch case e continue a programação
+  fora do switch case. <br>
+  <h3> Estrutura condicional encadeada </h3> <br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009231231948423320/unknown.png" /><br>
+
+</b></details>
+
+  
   
   
   
