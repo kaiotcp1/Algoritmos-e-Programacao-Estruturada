@@ -152,12 +152,6 @@ Uma sequência ordenada de passos que deve ser
   <h2> Operações e Expressões em C </h2>
   
 <details>
-<summary>Palavras reservadas</summary><br><b>
-   Palavras reservadas da sintaxe da linguagem. <br>
-<img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008799517971316776/unknown.png" /><br>
-</b></details>
-  
-<details>
 <summary>Operadores</summary><br><b>
    Operadores Matemáticos em C <br>
 <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008801612598353931/unknown.png" /><br>
