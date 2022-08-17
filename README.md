@@ -246,8 +246,61 @@ As informações, mensagens e conteúdos de variáveis são enviadas para o usu�
   fora do switch case. <br>
   <h3> Estrutura condicional encadeada </h3> <br>
   <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009231231948423320/unknown.png" /><br>
-
 </b></details>
+
+  #
+  #
+  #
+  #
+  
+  <h2>Estruturas de Repetição Condicional</h2>
+  
+  <details>
+<summary>Loop</summary><br><b>
+  ° Contador - é utilizado para controlar as repetições. <br><br>
+  ° Incremento e decremento - trabalham o número do contador, seja aumentando ou diminuíndo. <br><br>
+  ° Acumulador - irá somar as entradas de dados de cada iteração da repetição, gerando um somatório <br>
+  a ser utilizado quando da saída da repetição.<br><br>
+  ° Condição de parada - utilizada para determinar o momento de parar quando não se tem um valor exato <br>
+  desta repetição. <br><br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008808846640287874/unknown.png" /><br>
+</b></details>
+  
+  
+  <details>
+<summary>while</summary><br><b>
+  Comandos serão repetidamente executados enquanto uma condição <br>
+  verdadeira for verificada, somente após sua negativa essa condição <br>
+  será interrompida. <br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009240346212974592/unknown.png" /><br>
+<img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009240892890157126/unknown.png" /><br>
+</b></details>
+
+
+<details>
+<summary>do-while</summary><br><b>
+  Analisa a condição ao final do laço, ou seja, os comandos são executados antes do teste de condição. <br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009243417752117278/unknown.png" /><br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009244052471939072/unknown.png" /><br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009255782371557486/unknown.png" /><br>
+</b></details>
+
+
+  #
+  #
+  #
+  #
+  
+  <h2>Estruturas de Repetição Determinísticas</h2>
+  
+  <details>
+<summary>for</summary><br><b>
+  Repetir uma informação por um número fixo de vezes. <br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009257902764199967/unknown.png" /><br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009258670493814794/unknown.png" /><br>
+</b></details>
+
+ 
 
   
   
