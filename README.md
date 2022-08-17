@@ -292,15 +292,68 @@ As informações, mensagens e conteúdos de variáveis são enviadas para o usu�
   #
   
   <h2>Estruturas de Repetição Determinísticas</h2>
+
   
   <details>
 <summary>for</summary><br><b>
   Repetir uma informação por um número fixo de vezes. <br>
   <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009257902764199967/unknown.png" /><br>
   <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009258670493814794/unknown.png" /><br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009274681615990815/unknown.png" /><br>
+</b></details>
+
+
+  #
+  #
+  #
+  #
+  
+  <h2>Vetores e Matrizes</h2>
+  
+  
+<details>
+<summary>Variáveis compostas</summary><br><b>
+ 
+  ° Em qualquer variável composta, o índice começa por, <br>
+  zero, então, em uma matriz, o primeiro espaço para <br>
+  armazenamento é sempre (0,0), ou seja, índice 0 tanto <br>
+  para linha como para coluna. <br><br>
+  
+  ° Não é obrigatório que todas as posições sejam <br>
+  ocupadas, sendo possível declar uma matriz com 10 <br>
+  linhas (ou colunas) e usar somente uma. <br>
+  
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1009281430909624460/unknown.png"> <br>
+</b></details>
+  
+  <details>
+<summary>Vetores</summary><br><b>
+  ° Tipo especial de variável <br><br>
+  ° Armazena diversos valores "ao mesmo tempo ", <br>
+  usando um mesmo endereço de memória <br><br>
+  ° Sintaxe: tipo variavel [n] <br><br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008808846640287874/unknown.png" /><br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009276376995606599/unknown.png" /><br>
+</b></details>
+
+
+<details>
+<summary>Matrizes</summary><br><b>
+ 
+  Arranjos de duas ou mais dimensões. Assim como <br>
+  nos vetores, todos os elementos de uma matriz <br>
+  são do mesmo tipo, armazenando informações <br>
+  semanticamente semelhantes. <br><br>
+  
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1009279470298988684/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1009280024219762791/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1009299522473693284/unknown.png">
+
 </b></details>
 
  
+  
+
 
   
   
