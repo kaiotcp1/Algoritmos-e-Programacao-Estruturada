@@ -61,6 +61,9 @@ Uma sequência ordenada de passos que deve ser
 </b></details>
         <details>
 <summary>Pseudocódigo</summary><br><b>
+      °Pseudocódigo é uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples sem necessidade de conhecer a <br>
+      sintaxe de nenhuma linguagem de programação com intenção de chegar na resolução do problema.<br><br>
+      <br><br>
       ° Assemelha-se a forma em que os programas são escritos <br>
       ° Português estruturado <br>
       ° A intenção é chegar na resolução do problema <br>
@@ -152,12 +155,6 @@ Uma sequência ordenada de passos que deve ser
   <h2> Operações e Expressões em C </h2>
   
 <details>
-<summary>Palavras reservadas</summary><br><b>
-   Palavras reservadas da sintaxe da linguagem. <br>
-<img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008799517971316776/unknown.png" /><br>
-</b></details>
-  
-<details>
 <summary>Operadores</summary><br><b>
    Operadores Matemáticos em C <br>
 <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008801612598353931/unknown.png" /><br>
@@ -218,6 +215,149 @@ As informações, mensagens e conteúdos de variáveis são enviadas para o usu�
   Exemplo: <br>
   <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008808846640287874/unknown.png" /><br>
 </b></details>
+  
+  #
+  #
+  #
+  #
+  
+  <h2>Estruturas de Decisão Condicional</h2>
+
+<details>
+<summary>if</summary><br><b>
+  Tomar uma decisão e criar um desvio dentro do programa <br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009226537649832037/unknown.png" /><br>
+  Estrutura <br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009227167110021251/unknown.png" /><br>
+</b></details>
+  
+  
+<details>
+<summary>if e else</summary><br><b>
+  Estrutura <br>
+  <img width="320px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009228247998943385/unknown.png" /><br>
+  <img width="320px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009228604724477992/unknown.png" /><br>
+</b></details>
+  
+  
+<details>
+<summary>Switch case</summary><br><b>
+  Estrutura<br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009229446001205288/unknown.png" /><br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009229884779921508/unknown.png" /><br>
+  break; faz com que, após o comandos serem executados, força a parada do switch case e continue a programação
+  fora do switch case. <br>
+  <h3> Estrutura condicional encadeada </h3> <br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009231231948423320/unknown.png" /><br>
+</b></details>
+
+  #
+  #
+  #
+  #
+  
+  <h2>Estruturas de Repetição Condicional</h2>
+  
+  <details>
+<summary>Loop</summary><br><b>
+  ° Contador - é utilizado para controlar as repetições. <br><br>
+  ° Incremento e decremento - trabalham o número do contador, seja aumentando ou diminuíndo. <br><br>
+  ° Acumulador - irá somar as entradas de dados de cada iteração da repetição, gerando um somatório <br>
+  a ser utilizado quando da saída da repetição.<br><br>
+  ° Condição de parada - utilizada para determinar o momento de parar quando não se tem um valor exato <br>
+  desta repetição. <br><br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008808846640287874/unknown.png" /><br>
+</b></details>
+  
+  
+  <details>
+<summary>while</summary><br><b>
+  Comandos serão repetidamente executados enquanto uma condição <br>
+  verdadeira for verificada, somente após sua negativa essa condição <br>
+  será interrompida. <br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009240346212974592/unknown.png" /><br>
+<img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009240892890157126/unknown.png" /><br>
+</b></details>
+
+
+<details>
+<summary>do-while</summary><br><b>
+  Analisa a condição ao final do laço, ou seja, os comandos são executados antes do teste de condição. <br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009243417752117278/unknown.png" /><br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009244052471939072/unknown.png" /><br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009255782371557486/unknown.png" /><br>
+</b></details>
+
+
+  #
+  #
+  #
+  #
+  
+  <h2>Estruturas de Repetição Determinísticas</h2>
+
+  
+  <details>
+<summary>for</summary><br><b>
+  Repetir uma informação por um número fixo de vezes. <br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009257902764199967/unknown.png" /><br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009258670493814794/unknown.png" /><br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009274681615990815/unknown.png" /><br>
+</b></details>
+
+
+  #
+  #
+  #
+  #
+  
+  <h2>Vetores e Matrizes</h2>
+  
+  
+<details>
+<summary>Variáveis compostas</summary><br><b>
+ 
+  ° Em qualquer variável composta, o índice começa por, <br>
+  zero, então, em uma matriz, o primeiro espaço para <br>
+  armazenamento é sempre (0,0), ou seja, índice 0 tanto <br>
+  para linha como para coluna. <br><br>
+  
+  ° Não é obrigatório que todas as posições sejam <br>
+  ocupadas, sendo possível declar uma matriz com 10 <br>
+  linhas (ou colunas) e usar somente uma. <br>
+  
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1009281430909624460/unknown.png"> <br>
+</b></details>
+  
+  <details>
+<summary>Vetores</summary><br><b>
+  ° Tipo especial de variável <br><br>
+  ° Armazena diversos valores "ao mesmo tempo ", <br>
+  usando um mesmo endereço de memória <br><br>
+  ° Sintaxe: tipo variavel [n] <br><br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1008808846640287874/unknown.png" /><br>
+  <img width="420px"src="https://cdn.discordapp.com/attachments/1008779662643703869/1009276376995606599/unknown.png" /><br>
+</b></details>
+
+
+<details>
+<summary>Matrizes</summary><br><b>
+ 
+  Arranjos de duas ou mais dimensões. Assim como <br>
+  nos vetores, todos os elementos de uma matriz <br>
+  são do mesmo tipo, armazenando informações <br>
+  semanticamente semelhantes. <br><br>
+  
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1009279470298988684/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1009280024219762791/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1009299522473693284/unknown.png">
+
+</b></details>
+
+ 
+  
+
+
   
   
   
