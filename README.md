@@ -61,6 +61,9 @@ Uma sequência ordenada de passos que deve ser
 </b></details>
         <details>
 <summary>Pseudocódigo</summary><br><b>
+      °Pseudocódigo é uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples sem necessidade de conhecer a <br>
+      sintaxe de nenhuma linguagem de programação com intenção de chegar na resolução do problema.<br><br>
+      <br><br>
       ° Assemelha-se a forma em que os programas são escritos <br>
       ° Português estruturado <br>
       ° A intenção é chegar na resolução do problema <br>
