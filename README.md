@@ -414,6 +414,20 @@ Estrutura <br>
   <h2>Escopo e Passagem de Parâmetros</h2>
   
   
+  <details>
+<summary>Escopo</summary><br><b>
+    Variável Local: são "enxergadas" somente dentro <br>
+    do copor da função onde foram definidas<br><br>
+    
+    Variável Global: criá-la fora da função, assim ela <br>
+    será visível por todas as funções do programa. <br>
+    Geralmente adota-se declará-las após as bibliotecas. <br>
+
+Estrutura <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011330297968742420/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/904888345400868955/1011308671524950087/unknown.png"> <br>
+</b></details>
+  
 <details>
 <summary>Ponteiro</summary><br><b>
     Nem sempre uma variável estára disponível para todo o programa... <br>
@@ -421,7 +435,16 @@ Estrutura <br>
 Estrutura <br>
 <img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011318721177997433/unknown.png"> <br>
 <img src="https://cdn.discordapp.com/attachments/904888345400868955/1011308671524950087/unknown.png"> <br>
+</b></details>
 
+<details>
+<summary>Escopo</summary><br><b>
+Estrutura <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011332267907502080/unknown.png"> <br>
+Passagem de Valor: a função cria variáveis locais <br>
+automaticamente pra armazenar esses valores e <br>
+após a execução da função essas variáveis são liberadas. <br><br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011337824391409744/unknown.png"> <br>
 </b></details>
 
  
