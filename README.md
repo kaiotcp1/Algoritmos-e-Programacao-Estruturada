@@ -355,6 +355,75 @@ As informações, mensagens e conteúdos de variáveis são enviadas para o usu�
 
 </b></details>
 
+  #
+  #
+  #
+  #
+  
+  <h2>Procedimentos e Funções</h2>
+  
+  
+<details>
+<summary>Funções</summary><br><b>
+    
+  A ideia de criar programas com blocos de funcionalidades vem de uma técnica <br>
+  de projeto de algoritmos chamada dividir para conquistar.
+  
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011292711288062003/unknown.png"> <br>
+
+Trecho de código escrito para solucionar um subproblema <br>
+° Dividir a complexidade de um problema maior <br>
+° Evitar repetição de código <br>
+° Modularização <br><br><br>
+
+Estrutura<br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011296845223436348/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011297474058657792/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011297848677105754/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011298215770992640/unknown.png"> <br>
+</b></details>
+
+  #
+  #
+  #
+  #
+  
+  <h2>Funções com Ponteiros</h2>
+  
+  
+<details>
+<summary>Ponteiro</summary><br><b>
+    Tipo especial de variável, que armazena um endereço de memória <br>
+    O acesso á memória é feito usando dois operadores <br><br>
+    ° Asterisco(*): usado para criação do ponteiro <br>
+    ° "&": Acessar o endereço da memória <br>
+
+Estrutura <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011301869433401444/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/904888345400868955/1011308671524950087/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011314214251548672/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011317047734583376/unknown.png"> <br>
+
+</b></details>
+
+  #
+  #
+  #
+  #
+  
+  <h2>Escopo e Passagem de Parâmetros</h2>
+  
+  
+<details>
+<summary>Ponteiro</summary><br><b>
+    Nem sempre uma variável estára disponível para todo o programa... <br>
+
+Estrutura <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011318721177997433/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/904888345400868955/1011308671524950087/unknown.png"> <br>
+
+</b></details>
+
  
   
 
