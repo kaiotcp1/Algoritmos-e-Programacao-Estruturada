@@ -365,12 +365,9 @@ As informações, mensagens e conteúdos de variáveis são enviadas para o usu�
   
 <details>
 <summary>Funções</summary><br><b>
-    
   A ideia de criar programas com blocos de funcionalidades vem de uma técnica <br>
-  de projeto de algoritmos chamada dividir para conquistar.
-  
+  de projeto de algoritmos chamada dividir para conquistar. <br>
 <img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011292711288062003/unknown.png"> <br>
-
 Trecho de código escrito para solucionar um subproblema <br>
 ° Dividir a complexidade de um problema maior <br>
 ° Evitar repetição de código <br>
@@ -417,12 +414,10 @@ Estrutura <br>
   <details>
 <summary>Escopo</summary><br><b>
     Variável Local: são "enxergadas" somente dentro <br>
-    do copor da função onde foram definidas<br><br>
-    
+    do corpo da função onde foram definidas <br><br>
     Variável Global: criá-la fora da função, assim ela <br>
     será visível por todas as funções do programa. <br>
     Geralmente adota-se declará-las após as bibliotecas. <br>
-
 Estrutura <br>
 <img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011330297968742420/unknown.png"> <br>
 <img src="https://cdn.discordapp.com/attachments/904888345400868955/1011308671524950087/unknown.png"> <br>
@@ -438,13 +433,78 @@ Estrutura <br>
 </b></details>
 
 <details>
-<summary>Escopo</summary><br><b>
+<summary>Parâmetros</summary><br><b>
 Estrutura <br>
 <img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011332267907502080/unknown.png"> <br>
 Passagem de Valor: a função cria variáveis locais <br>
 automaticamente pra armazenar esses valores e <br>
 após a execução da função essas variáveis são liberadas. <br><br>
 <img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011337824391409744/unknown.png"> <br>
+</b></details>
+
+  #
+  #
+  #
+  #
+  
+  <h2>Listas</h2>
+  
+  <details>
+<summary>Struct</summary><br><b>
+    Variável que armazena valores de tipos <br>
+    diferentes <br>
+Estrutura <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011968341046480947/unknown.png"> <br>
+</b></details>
+
+<details>
+<summary>Lista Ligada</summary><br><b>
+    °Estrutura de dados linear e dinâmica <br>
+    ° Cada elemento da sequência é armazenado em <br>
+    uma célula de lista <br><br>
+Estrutura <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011970149189947402/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011970656751063080/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011971474912985088/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011971749300150402/unknown.png"> <br>
+</b></details>
+
+  #
+  #
+  #
+  #
+  
+  <h2>Operação com Listas Ligadas - Inserção</h2>
+  
+  <details>
+<summary>Adicionar Elementos na lista</summary><br><b>
+    ° Para inserirmos um elemento na lista ligada, é <br>
+    necessário alocarmos o espaço na memória <br>
+    ° Atualizar o valor do ponteiro <br<br>
+    Posição da inserção <br>
+    ° Final da lista <br>
+    ° Primeira posição <br>
+    ° No meio da lista <br>
+Estrutura <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011972953442877480/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011972953442877480/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011974340281110548/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011975950990319636/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011976769613602856/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011977915904307302/unknown.png"> <br>
+</b></details>
+
+<details>
+<summary>Remover Elementos na lista</summary><br><b>
+<br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011979068557774908/unknown.png"> <br>
+</b></details>
+
+<details>
+<summary>Outras operações na lista Ligada</summary><br><b>
+<br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011980732421394452/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011980928517685309/unknown.png"> <br>
 </b></details>
 
  
