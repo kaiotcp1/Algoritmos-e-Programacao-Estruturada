@@ -507,6 +507,42 @@ Estrutura <br>
 <img src="https://cdn.discordapp.com/attachments/1008779662643703869/1011980928517685309/unknown.png"> <br>
 </b></details>
 
+  #
+  #
+  #
+  #
+  
+  <h2>Pilha</h2>
+  
+  <details>
+<summary>Adicionar Elementos na lista</summary><br><b>
+    São estruturas de dados do tipo LIFO (last-in first-out) <br>
+    onde o último elemento a ser inserido, será o primeiro a ser retirado <br><br>
+Estrutura <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1012051337363595304/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1012051759012778064/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1012052174970290306/unknown.png"> <br>
+</b></details>
+
+  #
+  #
+  #
+  #
+  
+  <h2>Fila</h2>
+
+<details>
+<summary>Fila</summary><br><b>
+    São estruturas de dados do tipo FIFO (fist-in fist-out) <br>
+    onde o primeiro elemento a ser inseirdo, será <br>
+    o primeiro a ser retirado, ou seja, adiciona-se itens <br>
+    no fim e remove-se do início. <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1012053839907672125/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1012054045785067560/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1012054662150627499/unknown.png"> <br>
+<img src="https://cdn.discordapp.com/attachments/1008779662643703869/1012058359672868864/unknown.png"> <br>
+</b></details>
+
  
   
 
