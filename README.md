@@ -72,6 +72,24 @@ e quem gerencia isso é o Sistema Operacional.
      4° Mecanismos de monitoração de recursos, capazes de identificar possíveis gargalos no sistema. <br>
      5° Meios para armazenar/manter o estado do sistema.
      </b></details>
+    
+  
+  ##
+  
+  <h2> Relatório </h2>    
+  
+   <details>
+<summary>Relatório</summary><br><b>
+      O Sistema Operacional é o software mais importante do computador, pois é ele quem irá gerenciar           todos os recursos e todas as ações realizadas pelos usuários no computador. <br><br>
+      Os S.O Windows e Linux possuem características diferentes quanto aos serviços e ás funções               oferecidas, por exemplo, o Windows não permite o acesso ao código fonte, sendo restrito aos
+      desenvolvedores da Microsoft. <br>
+      Já o código fonte do Linux é aberto e todos os usuários podem acessar ou até mesmo modificar o           código. Quanto a licença de uso, o Linux está licenciado sob a GPL (GNU Public License) e, por ser       livre, qualquer usuário pode fazer os ajustes que bem entender e lançar no mercado novas versões,         além de não existir restrições para o número de computadores que possuem o Linux instalado. <br>
+      Com o Windows você adquire uma licença que pode ser instalada em apenas um computador. <br>
+      O Linux possui um instalador de aplicativos, permitindo que você baixe os programas que desejar.
+      Para instalar aplicativos no Windows, é necessário saber onde adquirir o programa, baixar ou             comprar o CD de instação. <br>
+      Em relação ao suporte aos usuários, existem na internet grupos e fóruns de suporte do Linux,             enquanto o do Windows é realizado através de uma central de atendimento e o usuário precisa pagar
+      por este suporte.
+     </b></details>
 
  
   
