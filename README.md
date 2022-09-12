@@ -57,6 +57,21 @@ e quem gerencia isso é o Sistema Operacional.
      programa irá utilizar o recurso e por quanto tempo. Outro tipo de compartilhamento é o de espaço,
      no qual vários programas utilizam uma parte do recurso.
      </b></details>
+  
+  
+  ##
+  
+  
+   <details>
+<summary>Principais serviços dos sistemas operacionais</summary><br><b>
+      Segundo Francis B. Machado, o S.O oferece os seguintes serviços para os aplicativos dos usuários e
+     também ao próprio sistema <br>
+     1° Meios para que um programa seja carregado em memória e executado. <br>
+     2° Um sistema de arquivos, permitindo criar, ler, escrever e excluir arquivos. <br>
+     3° Uma interface de acesso aos periféricos (impressoras, scanner, câmera, pen-drive, etc..). <br>
+     4° Mecanismos de monitoração de recursos, capazes de identificar possíveis gargalos no sistema. <br>
+     5° Meios para armazenar/manter o estado do sistema.
+     </b></details>
 
  
   
