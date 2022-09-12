@@ -1,6 +1,6 @@
 <div align="center">
 <i align="center" >Engenharia de Software 2° Semestre , Sistemas Operacionais.</i> <br>
-<i align="center" >Dfinição, conceitos, histórico dos sitemas operaconais, evolução até os dias atuais,  e principais funções e serviços.</i> 
+<i align="center" >definição, conceitos, histórico dos sitemas operaconais, evolução até os dias atuais,  e principais funções e serviços.</i> 
 
 <h1 align="center">Bem Vindo</h1>
 <div align="center">
