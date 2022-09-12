@@ -90,6 +90,19 @@ e quem gerencia isso é o Sistema Operacional.
       Em relação ao suporte aos usuários, existem na internet grupos e fóruns de suporte do Linux,             enquanto o do Windows é realizado através de uma central de atendimento e o usuário precisa pagar
       por este suporte.
      </b></details>
+  
+   
+  
+  ##
+  
+  <h2> Evolução dos sistemas operacionais</h2>    
+  
+  <details>
+<summary>Kernel ou núcleo do sistema operacional</summary><br><b>
+    O sistema operacional é composto por um conjunto de rotinas chamado kernel ou núcleo do sistema           operacional.
+    O Kernel é o principal componente dos S.O, pois ele é quem faz o gerenciamento dos recursos do           computador, quando o computador é ligado , o kernel executa programas que inicializam o computador e     o conjunto de rotinas é executado ao mesmo tempo sem uma ordem pré-definida.
+     </b></details>
+  
 
  
   
